@@ -1,3 +1,6 @@
+## Description
+this is browser scrypt for clearing VKontakte likes
+
 ## Instruction  
 1. firstly, open this vk [page with your likes](http://vk.com/feed?section=likes)
 2. open DevTools console (in chrome: ctrl + shift + i )
